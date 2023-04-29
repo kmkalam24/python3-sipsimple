@@ -27,9 +27,9 @@ Update the list of available packages:
 sudo apt-get update
 
 
-Install SIP SIMPLE client SDK:
+Install SIP SIMPLE client SDK for python3:
 
-sudo apt-get install python-sipsimple
+sudo apt-get install python3-sipsimple
 
 
 Install the Command Line Clients:
